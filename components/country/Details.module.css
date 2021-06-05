@@ -1,0 +1,27 @@
+.container{
+    box-sizing: border-box;
+    padding: 20px 80px 20px 80px;
+    font-weight: 600;
+}
+.img{
+    text-align: center;
+    font-weight: 600;
+}
+.img img{
+    display: flex;
+    justify-content: center;
+    margin-left: 18%;
+    height: 50%;
+    width: 60%;
+}
+.name{
+    display: flex;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+}
+.div li{
+    list-style: none;
+    margin-left: 5px;
+}

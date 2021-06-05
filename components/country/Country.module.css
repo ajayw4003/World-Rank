@@ -1,0 +1,12 @@
+.container{
+    box-sizing: border-box;
+    padding: 55px;
+}
+
+.country{
+    display: flex;
+    justify-content: space-between;
+}
+.name, .population{
+    text-align: left;
+}

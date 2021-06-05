@@ -1,0 +1,22 @@
+.country{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+.country:hover{
+    background-color: #126e82;
+    color: antiquewhite;
+    transition: 0.5s;
+    transform: translateY(-4px);
+    transform: scale(1.03);
+}
+.name{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.name img{
+    height: 5vh;
+    width: 7vh;
+}
