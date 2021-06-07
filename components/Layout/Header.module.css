@@ -1,9 +1,10 @@
-.header{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 5px;
-    width: 100%;
-    background-color: #132c33;
-    color: antiquewhite;
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  width: 100%;
+  background-color: #132c33;
+  color: antiquewhite;
+  cursor: pointer;
 }
